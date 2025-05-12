@@ -3,7 +3,7 @@
 This is my personal portfolio website where I showcase my development projects, resume, and technical skills.
 
 ### 🔗 Live Demo
-[Click here to visit the live site](https://aasimmdportfolio.netlify.app)
+[aasim_md_portfolio](https://aasimmdportfolio.netlify.app)
 
 ---
 
